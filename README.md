@@ -15,7 +15,7 @@
 - 🚗 Exploring **Autonomous Vehicle Systems**
 - 🧠 Passionate about AI & Real-Time Computer Vision
 - 💻 Strong in Python, OpenCV & Deep Learning
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: sudeepeb251@gmail.com
 
 ---
 
@@ -28,7 +28,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaA27G1hRRzNs00xvVF3m_oxV7H8C7803Uw&s" width="40"/>
 </a>
 <a href="">
-<img src="[https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-svg-download-png-7740647.png](https://cdn.iconscout.com/icon/free/png-256/free-x-twitter-icon-svg-download-png-10898367.png?f=webp)" width="40"/>
+<img src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/social-medias/x-logo-twitter-41lgkb2kuizqevwpn3ylje.png/x-logo-twitter-i6ckpld05ew16q0k917sa.png?_a=DATAiZAAZAA0" width="40"/>
 </a>
 </p>
 
