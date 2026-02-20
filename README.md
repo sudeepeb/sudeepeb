@@ -13,9 +13,9 @@
 ### 🧠 About Me
 - 🔍 Working on **Object Detection using YOLOv8**
 - 🚗 Exploring **Autonomous Vehicle Systems**
-- 🧠 Passionate about **AI & Real-Time Computer Vision**
+- 🧠 Passionate about AI & Real-Time Computer Vision
 - 💻 Strong in Python, OpenCV & Deep Learning
-- 📫 Reach me at: *your email here*
+- 📫 Reach me at: your-email@example.com
 
 ---
 
@@ -32,10 +32,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔍 **Object Detection System (YOLOv8 + OpenCV)**
-- 🚗 **Autonomous Car Simulation**
-- 🌐 **Personal Portfolio Website**
-- 🧠 **Computer Vision Real-Time Applications**
+- 🔍 Object Detection System (YOLOv8 + OpenCV)
+- 🚗 Autonomous Car Simulation
+- 🌐 Personal Portfolio Website
+- 🧠 Computer Vision Real-Time Applications
 
 ---
 
@@ -66,7 +66,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/sudeepeb/sudeepeb/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/sudeepeb/sudeepeb/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
