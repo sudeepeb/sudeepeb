@@ -25,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 <a href="https://www.instagram.com/mr_sudeep_105" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaA27G1hRRzNs00xvVF3m_oxV7H8C7803Uw&s" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
 </a>
 <a href="">
 <img src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/social-medias/x-logo-twitter-41lgkb2kuizqevwpn3ylje.png/x-logo-twitter-i6ckpld05ew16q0k917sa.png?_a=DATAiZAAZAA0" width="40"/>
