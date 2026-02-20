@@ -1,6 +1,7 @@
 <!-- Animated Header -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sudeep%20E%20B&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-
+</p>>
 <h1 align="center">Hi 👋, I'm Sudeep E B</h1>
 <h3 align="center">AI Developer | Computer Vision Engineer | Autonomous Systems Enthusiast</h3>
 
@@ -66,15 +67,16 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sudeepeb&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepeb&theme=tokyonight" height="165"/>
+  <img height="170em" 
+       src="https://github-readme-stats.vercel.app/api?username=sudeepeb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepeb&layout=compact&theme=tokyonight"/>
+  <img height="170em" 
+       src="https://streak-stats.demolab.com?user=sudeepeb&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Activity
