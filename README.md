@@ -8,18 +8,24 @@
 <img src="https://komarev.com/ghpvc/?username=sudeepeb&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-### 🧠 About Me
-- 🔍 Working on **Object Detection using YOLOv8**
-- 🚗 Exploring **Autonomous Vehicle Systems**
-- 🧠 Passionate about AI & Real-Time Computer Vision
-- 💻 Strong in Python, OpenCV & Deep Learning
-- 📫 Reach me at: sudeepeb251@gmail.com
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Developer-purple?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 🧠 About Me
+- 🔭 Currently building **Real-Time Object Detection Systems**
+- 🚗 Working on **Autonomous Driving Concepts**
+- 🧠 Exploring Deep Learning, YOLO & OpenCV
+- 💡 Interested in AI, Robotics & Intelligent Systems
+- 📫 Email: **sudeepeb251@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/sudeep-e" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
@@ -27,22 +33,19 @@
 <a href="https://www.instagram.com/mr_sudeep_105" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
 </a>
-<a href="">
-<img src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/social-medias/x-logo-twitter-41lgkb2kuizqevwpn3ylje.png/x-logo-twitter-i6ckpld05ew16q0k917sa.png?_a=DATAiZAAZAA0" width="40"/>
-</a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 - 🔍 Object Detection System (YOLOv8 + OpenCV)
 - 🚗 Autonomous Car Simulation
 - 🌐 Personal Portfolio Website
-- 🧠 Computer Vision Real-Time Applications
+- 🧠 Real-Time Computer Vision Applications
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
@@ -55,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sudeepeb&show_icons=true&theme=tokyonight" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepeb&theme=tokyonight" height="160"/>
@@ -67,9 +70,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/sudeepeb/sudeepeb/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/sudeepeb/sudeepeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/sudeepeb/sudeepeb/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
 ---
