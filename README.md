@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 <a href="https://www.instagram.com/mr_sudeep_105" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+<img src="https://img.freepik.com/premium-vector/instagram-logo-with-colorful-gradient_1273375-1516.jpg?semt=ais_user_personalization&w=740&q=80" width="40"/>
 </a>
 </p>
 
@@ -84,5 +84,6 @@
 </p>
 
 ---
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
