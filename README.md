@@ -71,7 +71,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/sudeepeb/sudeepeb/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<p>contributed by Hangman</p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
