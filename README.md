@@ -28,7 +28,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaA27G1hRRzNs00xvVF3m_oxV7H8C7803Uw&s" width="40"/>
 </a>
 <a href="">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-svg-download-png-7740647.png" width="40"/>
+<img src="[https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-svg-download-png-7740647.png](https://cdn.iconscout.com/icon/free/png-256/free-x-twitter-icon-svg-download-png-10898367.png?f=webp)" width="40"/>
 </a>
 </p>
 
